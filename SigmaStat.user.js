@@ -1,1 +1,1 @@
-
+alert("SigmaStat fonctionne !");
